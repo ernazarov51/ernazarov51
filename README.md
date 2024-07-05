@@ -5,7 +5,7 @@
 <p align="center">
 </p>
 <p>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=mexmonjonovuz&label=Profile%20views&color=0e75b6&style=flat" alt="mexmonjonovuz" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ernazarov51&label=Profile%20views&color=0e75b6&style=flat" alt="ernazarov51" /> </p>
 <h1 align="center"><img src="https://profile-readme-generator.com/assets/snake.svg"</h1>
 </p>
 
@@ -31,7 +31,7 @@
 
 <h1 align="center">📈 Leet Code Algorithms Status</h1>
 <h1 align="center">
-    <a href="https://leetcode.com/u/Mexmonjonovuz/">
-        <img src="https://leetcard.jacoblin.cool/Mexmonjonovuz?theme=dark" alt="Leetcode Stats">
+    <a href="https://leetcode.com/u/warcraft1505/">
+        <img src="https://leetcard.jacoblin.cool/warcraft1505?theme=dark" alt="Leetcode Stats">
     </a>
 </h1>
